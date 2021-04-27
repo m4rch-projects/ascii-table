@@ -1,0 +1,9 @@
+{
+	"name": "ascii-table",
+	"description": "create an ascii table",
+	"version": "0.1.0",
+	"author": "m4rch",
+	"main": "index.js",
+	"keywords": [],
+	"license": "Unlicense"
+}
